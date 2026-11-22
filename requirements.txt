@@ -1,0 +1,13 @@
+bcrypt
+beautifulsoup4
+colorama
+dnspython
+exifread
+instaloader
+phonenumbers
+piexif
+pillow
+pyzipper
+rarfile
+requests
+urllib3

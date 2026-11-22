@@ -1,0 +1,23 @@
+# Byte-compiled / optimized / DLL files
+**/__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+
+# IDE / Editor settings
+.vscode/
+.idea/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Generated outputs (keep folder structure placeholders)
+1-Output/DoxCreate/*
+!1-Output/DoxCreate/DoxCreate.txt
+1-Output/PhishingAttack/*
+!1-Output/PhishingAttack/PhishingAttack.txt
