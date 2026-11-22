@@ -1,14 +1,6 @@
-<h1 align="center">⚡ SonicX Multi-Tools ⚡</h1>
+# ⚡ SonicX Multi-Tools ⚡
 
-<p align="center">
-   <a href="https://t.me/sonicxtool">Telegram</a> ・ <a href="https://guns.lol/expodev">Guns.lol</a> ・ <a href="https://github.com/exploitbey/SonicX">GitHub</a>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/github/stars/exploitbey/SonicX?style=flat&label=Stars&color=008cff">
-  <img src="https://img.shields.io/github/repo-size/exploitbey/SonicX?label=Size&color=008cff">
-  <img src="https://img.shields.io/github/languages/top/exploitbey/SonicX?color=008cff">
-</p>
+**[Telegram](https://t.me/sonicxtool)** ・ **[Guns.lol](https://guns.lol/expodev)** ・ **[GitHub](https://github.com/exploitbey/SonicX)**
 
 ---
 
@@ -81,10 +73,11 @@ python SonicX.py
 
 ## ⚠️ Disclaimer
 
-SonicX has been developed strictly for educational purposes, security research, and authorized testing. By using this tool, you acknowledge and accept full responsibility for your actions.
+SonicX has been developed strictly for educational purposes, security research, and authorized testing. By using SonicX, you acknowledge and accept full responsibility for your actions.
 
 ---
 
 ## 📄 License
 
+Copyright (c) **expo** — **SonicX**  
 Distributed under the **GPL-3.0 License**. See [`LICENSE`](LICENSE) for more information.
