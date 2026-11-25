@@ -77,6 +77,9 @@ SonicX has been developed strictly for educational purposes, security research, 
 
 ---
 
+## Tool Youtube videos
+https://www.youtube.com/watch?v=j62u_ikD2cE
+
 ## 📄 License
 
 Copyright (c) **expo** — **SonicX**  

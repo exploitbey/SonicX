@@ -1,12 +1,12 @@
-﻿# Copyright (c) SonicX
-# See the file 'LICENSE' for copying permission
-# ----------------------------------------------------------------------------------------------------------------------------------------------------------|
-# EN: 
+# ==============================================================================
+#  SonicX Multi-Tools | Geliştirici: expo (https://github.com/exploitbey/SonicX)
+#  Not: Bu yazılım eğitim ve yetkili güvenlik testleri amacıyla geliştirilmiştir.
+# ==============================================================================
 #     - Do not touch or modify the code below. If there is an error, please contact the owner, but under no circumstances should you touch the code.
 #     - Do not resell this tool, do not credit it to yours.
-# FR: 
-#     - Ne pas toucher ni modifier le code ci-dessous. En cas d'erreur, veuillez contacter le propriétaire, mais en aucun cas vous ne devez toucher au code.
-#     - Ne revendez pas ce tool, ne le créditez pas au vôtre.
+# TR:
+#     - Aşağıdaki koda dokunmayın veya değiştirmeyin. Bir hata oluşursa lütfen geliştirici ile iletişime geçin.
+#     - Bu aracı satmayın ve kendi projeniz gibi göstermeyin.
 
 from Config.Util import *
 from Config.Config import *

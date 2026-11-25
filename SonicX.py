@@ -1,6 +1,7 @@
-# Copyright (c) SonicX
-# See the file 'LICENSE' for copying permission
-# ----------------------------------------------------------------------------------------------------------------------------------------------------------|
+# ==============================================================================
+#  SonicX Multi-Tools | Geliştirici: expo (https://github.com/exploitbey/SonicX)
+#  Not: Bu yazılım eğitim ve yetkili güvenlik testleri amacıyla geliştirilmiştir.
+# ==============================================================================
 
 from Program.Config.Config import *
 from Program.Config.Util import *
